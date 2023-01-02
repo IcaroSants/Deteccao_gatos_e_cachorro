@@ -1,0 +1,9 @@
+.ipynb_checkpoints/*
+utils/.ipynb_checkpoints/*
+utils/__pycache__/*
+*.xml
+*.jpg
+logs/*
+cats_and_dogs/*
+yolov2.weights
+cats_and_dogs.h5
